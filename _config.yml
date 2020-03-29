@@ -1,16 +1,16 @@
-# SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
-url: "https://sylhare.github.io"
+-# SITE CONFIGURATION
+baseurl: "/eight-days"
+url: "https://jschirrmacher.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Type on Strap                                    # site's title
-description: "A website with blog posts and pages"      # used by search engines
-avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
+title: In acht Tagen um die Welt
+description: "Reisetagebuch einer virtuellen Weltreise in acht Tagen in Zeiten der COVID-19 Pandemie"
+avatar: " "
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: Change <code>header_text</code> in <code>_config.yml</code>  # Change Blog header text
-header_feature_image: assets/img/pexels/triangular.jpeg
+header_text: In acht Tagen um die Welt
+header_feature_image: assets/img/bend-4948376_1920.jpg
 footer_text: >
   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
@@ -20,7 +20,7 @@ post_navigation: true
 color_image: /assets/img/lineart.png                    # A bit transparent for color posts.
 
 # Features
-katex: true                                             # Enable if using math markup
+katex: false                                            # Enable if using math markup
 google_analytics:                                       # Tracking ID, e.g. "UA-000000-01"
 disqus_shortname:                                       # Your discus shortname for comments
 layout_variables:                                       # Open the "_sass > base" folder, and open "_variables.scss"
@@ -34,10 +34,10 @@ paginate: 5
 paginate_path: "blog/page:num"
 
 # PORTFOLIO
-collections:
-  portfolio:
-    output: true
-    permalink: /:collection/:name
+#collections:
+#  portfolio:
+#    output: true
+#    permalink: /:collection/:name
 
 # BUILD SETTINGS
 markdown: kramdown
