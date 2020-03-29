@@ -43,3 +43,8 @@ header#main {
     }
   }
 }
+
+img + em {
+  text-align: center;
+  display: block;
+}
