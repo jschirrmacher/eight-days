@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: ""
-url: "https://jschirrmacher.github.io/eight-days"
+baseurl: "/eight-days"
+url: "https://jschirrmacher.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: In acht Tagen um die Welt
