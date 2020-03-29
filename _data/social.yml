@@ -1,16 +1,16 @@
 # Icons on the footer
 rss: true        
-email_address:    # Full email address, e.g. "sam@example.com"
+email_address: joachim@dilab.co
 behance:
 bitbucket:
 dribbble:
 facebook:
 flickr:
 gitlab:
-github: "sylhare"
+github: jschirrmacher
 instagram:
 keybase:
-linkedin:         # Full URL
+linkedin: https://www.linkedin.com/in/joachimschirrmacher
 pinterest:
 reddit:
 soundcloud:
@@ -18,19 +18,19 @@ stack_overflow:
 stack_exchange:   # Full URL
 steam:
 tumblr:
-twitter:          # "twitter username"
+twitter: jschirrmacher
 vimeo:
 wordpress:
 youtube:          # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
 
 # Share button options
 share:
-  facebook: true
+  facebook: 
   twitter: true
   tumblr:
   pinterest:
   pocket:
-  reddit: true
-  linkedin:
+  reddit: 
+  linkedin: true
   wordpress:
   email: true

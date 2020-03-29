@@ -5,7 +5,6 @@ url: "https://jschirrmacher.github.io"
 # THEME-SPECIFIC CONFIGURATION
 title: In acht Tagen um die Welt
 description: "Reisetagebuch einer virtuellen Weltreise in acht Tagen in Zeiten der COVID-19 Pandemie"
-avatar: " "
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
@@ -28,6 +27,8 @@ footer_icons:                                           # In _data/social.yml
 share_buttons:                                          # In _data/social.yml
 authors:                                                # In _data/authors.yml
 language:                                               # In _data/language.yml
+
+gallery_path: "assets/img/gallery"
 
 # PAGINATION
 paginate: 5

@@ -2,13 +2,14 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "assets/img/pexels/circuit.jpeg"
-tags: [About, Archive]
+feature-img: assets/img/bend-4948376_1920.jpg
+tags: [About]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+Diese Seite haben wir mit GitHub Pages unter Nutzung von [Type on Strap](https://github.io/sylhare/Type-on-Strap) erstellt, das under der MIT Lizenz zur Verfügung gestellt wird.
 
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+Wir sammeln so wenige Daten wie möglich. Wenn ihr etwas findet, wo wir uns noch verbessern könnten, dann her mit den Infos!
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
- 
+Ebenso freuen wir uns natürlich über weitere Informationen zu unseren Reisezielen oder Anregungen, wo es noch hin gehen könnte. Dazu schreibt uns doch einfach auf Twitter an oder hinterlasst uns einfach einen Kommentar unterhalb unserer Blog-Beiträge. Wir müssen uns natürlich gegen Scherzbolde oder vielleicht nicht ganz so witzige Zeitgenossen schützen und behalten uns daher vor, Kommentare nur zu veröffentlichen, wenn sie niemanden beleidigen, diskriminieren oder ähnliches.
+
+Unser Header-Bild stammt übrigens von <a href="https://pixabay.com/de/users/pasja1000-6355831/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4948376">pasja1000</a> auf <a href="https://pixabay.com/de/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4948376">Pixabay</a>
