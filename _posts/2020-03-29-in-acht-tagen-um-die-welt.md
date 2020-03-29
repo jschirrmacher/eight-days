@@ -20,4 +20,4 @@ Nach ein bisschen Überlegung kam uns dann der Gedanke, dass wir uns von einem s
 
 Ganz nebenbei spart so eine Reise bestimmt auch noch etwas CO² ein gegenüber einer "realen" Weltreise.
 
-Habt ihr Ideen, wo unsere erste Fahrt hin gehen soll? Dann schreibt uns doch einfach!
+Habt ihr Ideen, welche Orte wir auf der Welt virtuell besuchen sollten? Dann schreibt uns einen Kommentar!
