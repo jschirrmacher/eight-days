@@ -14,8 +14,10 @@ html { overflow-y: scroll; }
   {% if image.path contains include.gallery_path %}
     {% unless image.path contains '.md' %}
         <div class="grid-item">
-          <img src="{{ image.path | relative_url }}" alt="" style="padding: 0;">
-          <em>{{ image.basename }}</em>
+          <a href="{{ '/search/' | relative_url }}?{{ image.basename }}">
+            <img src="{{ image.path | relative_url }}" alt="Foto in der Galerie" style="padding: 0;">
+            <em>{{ image.basename }}</em>
+          </a>
         </div>
     {% endunless %}  
   {% endif %}
