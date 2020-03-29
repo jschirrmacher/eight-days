@@ -1,20 +1,8 @@
-rohanchandra: # author-id
-  name: "Rohan Chandra"
-  avatar: "https://avatars2.githubusercontent.com/u/816965?s=460&v=4"
-  url: "https://github.com/rohanchandra"
-sylhare:
-  name: Sylhare
-  avatar: "assets/img/avatars/sylhare_avatar.png"
-  url: "https://github.com/sylhare"
-mmistakes:
-  name: "Michael Rose"
-  avatar: "https://avatars3.githubusercontent.com/u/1376749?s=460&v=4"
-  url: "https://github.com/mmistakes"
-mhagnumdw:
-  name: Mhagnumdw
-  avatar: "assets/img/avatars/mhagnumdw_avatar.jpg"
-  url:
-unknown:
-  name: Unknown
-  avatar:
-  url:
+jschirrmacher: # author-id
+  name: "Joachim Schirrmacher"
+  avatar: "https://avatars1.githubusercontent.com/u/2821879"
+  url: "https://github.com/jschirrmacher"
+chrigerigk:
+  name: "Christiane Gerigk"
+  avatar: "https://avatars0.githubusercontent.com/u/56087771"
+  url: "https://github.com/Chrigerigk"

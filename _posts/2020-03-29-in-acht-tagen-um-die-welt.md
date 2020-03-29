@@ -2,6 +2,7 @@
 layout: post
 title: Die Idee zur Weltreise
 feature-img: assets/img/bend-4948376_1920.jpg
+author: jschirrmacher
 ---
 ## Auf Weltreise in Pandemie-Zeiten
 
