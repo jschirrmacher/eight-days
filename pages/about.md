@@ -2,8 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: assets/img/bend-4948376_1920.jpg
-tags: [About]
+feature-img: assets/img/header.jpg
 ---
 
 Diese Seite haben wir mit GitHub Pages unter Nutzung von [Type on Strap](https://github.io/sylhare/Type-on-Strap) erstellt, das under der MIT Lizenz zur Verfügung gestellt wird.

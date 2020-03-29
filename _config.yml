@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/eight-days"
-url: "https://jschirrmacher.github.io"
+baseurl: ""
+url: "https://jschirrmacher.github.io/eight-days"
 
 # THEME-SPECIFIC CONFIGURATION
 title: In acht Tagen um die Welt
@@ -9,12 +9,12 @@ favicon: assets/favicon.ico                             # Icon displayed in the 
 
 # Header and footer text
 header_text: In acht Tagen um die Welt
-header_feature_image: assets/img/bend-4948376_1920.jpg
+header_feature_image: assets/img/header.jpg
 footer_text: >
   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
 # Blog
-excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
+excerpt: truncate
 post_navigation: true
 color_image: /assets/img/lineart.png                    # A bit transparent for color posts.
 

@@ -2,7 +2,7 @@
 layout: page
 title: Reisefotos
 subtitle: Alles, was wir gesehen und auf Fotos festgehalten haben
-feature-img: assets/img/bend-4948376_1920.jpg
+feature-img: assets/img/header.jpg
 permalink: /gallery/
 tags: [Gallery, Photo]
 ---

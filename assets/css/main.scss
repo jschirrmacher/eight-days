@@ -3,6 +3,43 @@
 
 @import "type-on-strap";
 
-#main {
-  background-position-y: 60%;
+header#main {
+  height: 300px;
+}
+
+.posts {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 3% 23%;
+
+  @media (max-width: 2000px) {
+    padding: 3% 18%;
+  }
+
+  @media (max-width: 1400px) {
+    padding: 3% 9%;
+  }
+
+  @media (max-width: 1000px) {
+    padding: 3% 6%;
+  }
+
+  .post-teaser {
+    padding: 20px;
+    width: 50%;
+
+    @media (max-width: 1000px) {
+      width: 100%;
+    }
+
+    &:last-child:nth-child(odd) {
+      width: 100%;
+    }  
+  }
+
+  .post-info {
+    img {
+      width: 50px;
+    }
+  }
 }
