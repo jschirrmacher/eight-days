@@ -4,6 +4,7 @@ title: Die Idee zur Weltreise
 feature-img: assets/img/header.jpg
 thumbnail: /assets/img/thumbnails/Christiane und Joachim am Jostedalsbreen in Norwegen.jpg
 author: jschirrmacher
+tags: Vorbereitung
 ---
 ## Auf Weltreise in Pandemie-Zeiten
 

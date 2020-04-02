@@ -28,7 +28,7 @@ share_buttons:                                          # In _data/social.yml
 authors:                                                # In _data/authors.yml
 language:                                               # In _data/language.yml
 
-gallery_path: "assets/img/gallery"
+gallery_path: "gallery"
 
 # PAGINATION
 paginate: 5

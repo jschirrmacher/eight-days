@@ -4,6 +4,7 @@ title: Virtuelle Weltreise
 feature-img: https://kochbuch.cgerigk.de/wp-content/uploads/2012/08/Zitronennudeln2.jpg
 thumbnail: /assets/img/thumbnails/Zitronennudeln2.jpg
 author: jschirrmacher
+tags: Vorbereitung Cinque-Terre Italien
 ---
 ## Was wir vorhaben
 
@@ -11,7 +12,7 @@ Bald geht's los mit unserer Weltreise! Ich kann es kaum erwarten.
 
 Nun stellt sich die Frage, was uns eigentlich an den Orten interessiert, die wir besuchen. Klar, einfach mal gesehen haben, ist schon mal was. Aber reicht uns das? Wohl eher nicht.
 
-![Cinque Terre]({{ 'gallery/cinque-terre-828614_1920.jpg' | relative_url }})
+![Cinque Terre]({{ 'gallery/Cinque Terre.jpg' | relative_url }})
 _Cinque Terre von [Free-Photos](https://pixabay.com/photos/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=828614) auf [Pixabay](https://pixabay.com/de/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=828614)_
 
 Interessant finde ich zum Beispiel, auch zu wissen, wie und was man dort isst. Wie gut, dass wir in Frankfurt leben, wo man ja - zumindest in normalen Zeiten, mal sehen, wie das heutzutage ist - fast alle Nationalitäten antrifft und auch recht realitätsnahe Speisen bekommen kann. Oftmals fertig zubereitet, manchmal vielleicht auch nur die notwendigen Zutaten. Kochen können wir ja was, und das Internet sollte uns zumindest schlau machen können, was geeignete Rezepte und Zubereitungsmethoden sind. Mal sehen, wie weit wir kommen. Ich bin jedenfalls guter Dinge, dass da auch was für unser [Kochbuch](https://kochbuch,cgerigk.de) abfällt.
