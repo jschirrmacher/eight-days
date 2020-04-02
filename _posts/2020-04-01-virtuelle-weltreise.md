@@ -2,7 +2,7 @@
 layout: post
 title: Virtuelle Weltreise
 feature-img: https://kochbuch.cgerigk.de/wp-content/uploads/2012/08/Zitronennudeln2.jpg
-thumbnail: https://kochbuch.cgerigk.de/wp-content/uploads/2012/08/Zitronennudeln2.jpg
+thumbnail: /assets/img/thumbnails/Zitronennudeln2.jpg
 author: jschirrmacher
 ---
 ## Was wir vorhaben
