@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Joachims erste Erfahrungen mit dem Reiseblog
+title: Joachims Eindrücke
+feature-img: gallery/VinoItaliano.jpg
+thumbnail: gallery/VinoItaliano.jpg
 author: jschirrmacher
 tags: Reiseblog Schreiben Urlaub
 ---
