@@ -20,7 +20,7 @@ tags: Vorbereitung
 
 <J/>Unser erster Reiseabschnitt bringt uns an die ligurische Küste an der Italienischen Riviera. Ich war vor vielen Jahren schon mal dort, in dem kleinen Ort Levanto, der eigentlich direkt westlich der Cinque Terre liegt, der “fünf Orte” wie es übersetzt heißt. Ich fand es damals sehr schön und daher fand ich es reizvoll zu sehen, was sich seitdem verändert hat und wie es heute aussieht. Und generell bin ich für sonnige Gegenden mit mediterraner Vegetation sehr zu haben. Weil er schon öfter davon erzählt habe, war ich schnell davon zu überzeugen.
 
-## Wie es uns dort gefällt
+## Was uns dort gefällt
 
 Cinque Terre ist ein ca. 12 Kilometer langer Küstenstreifen zwischen Genua und La Spezia mit den Örtchen Monterosso al Mare, Vernazza, Corniglia, Manarola und Roimaggiore. Die insgesamt ca. 7000 Einwohner des Landstrichs mit seinen außergewöhnlichen Steilküsten und den malerischen Dörfern ist seit 1997 UNESCO Weltkulturerbe. Man erreicht sie am besten mit der Bahn, die immerhin ungefähr [drei Mal pro Stunde verkehrt](https://cdn.cinqueterre.eu.com/images/stories/Cinque-Terre-train-timetable.jpg).
 
@@ -28,18 +28,22 @@ Cinque Terre ist ein ca. 12 Kilometer langer Küstenstreifen zwischen Genua und 
 
 <C/>Gestern Abend hatten wir schon eine Vorschau. Einfach reingegriffen in die Auswahl, die Youtube zu Cinque Terre bietet. Und wo sind wir gelandet? Bei der Eisenbahn Romantik! Meist zeigt die Kamera auf Zug und Lokführer, manchmal natürlich auch den wahnsinnig tollen Ausblick. Genau wie es Joachim gefällt, die Palmen stehen direkt vor dem Hotel, das Meer leuchtet türkis. Der Sprecher meinte dann noch nüchtern 1000 Mark das Zimmer. Mann klingt das lange her.
 
-<J/>Viele Einwohner der Region arbeiten heute bei der Bahn, die 1874 gebaut wurde und seitdem das wichtigste Verkehrsmittel in der Region ist. Anders als wir erwartet hätten, waren die Orte auch früher keine traditionellen Fischerorte (außer vielleicht Monterosso, wo Thunfisch und Sardellen gefangen wurden). Vielmehr waren sie trotz ihrer Lage am Meer hauptsächlich in der Landwirtschaft tätig. Oliven wachsen in dem Klima gut. So wurden schon lange Weinberge in Terrassen mit Trockenmauern angelegt und bewirtschaftet. Die Arbeit daran und darin ist allerdings beschwerlich und bis heute Handarbeit. Es ist ein Vielfaches an Aufwand gegenüber flacheren Gegenden aufzuwenden.
+<J/>Viele Einwohner der Region arbeiten heute bei der Bahn. Die Tunnelstrecke wurde schon 1874 und ist seitdem das wichtigste Verkehrsmittel in der Region. Anders als wir erwartet hätten, waren die Orte auch früher keine traditionellen Fischerorte (außer vielleicht Monterosso, wo Thunfisch und Sardellen gefangen wurden). Vielmehr waren sie trotz ihrer Lage am Meer hauptsächlich in der Landwirtschaft tätig. Oliven wachsen in dem Klima gut. So wurden schon lange Weinberge in Terrassen mit Trockenmauern angelegt und bewirtschaftet. Die Arbeit daran und darin ist allerdings beschwerlich und bis heute von Hand. Es ist ein Vielfaches an Aufwand gegenüber flacheren Gegenden aufzuwenden.
 
-Spätestens seit einer verheerenden Reblausplage 1920 ist daher der Weinbau sehr zurück gegangen. Inzwischen gibt es nur noch einzelne Weinbauern in der Gegend. Der Tourismus ist hingegen seit 1970 eine sehr wichtige Einkommensquelle geworden.
+Spätestens seit der verheerenden Reblausplage 1920 ist daher der Weinbau sehr zurück gegangen. Inzwischen gibt es nur noch einzelne Weinbauern in der Gegend. Der Tourismus ist hingegen seit 1970 eine sehr wichtige Einkommensquelle geworden.
 
 Schon das kleinste und am wenigsten besuchte Cinque-Terre-Dorf, Corniglia mit seinen 270 Einwohnern, hat acht Bars und Weinstuben, fünf Restaurants, zwei Kunstgewerbe- und einen Souvenirladen, einen Pizzabäcker, ein Lebensmittelgeschäft und eine Eisdiele. Dazu kommen, wie überall in den Cinque Terre, Dutzende von privaten Zimmervermietern.
 
 <a title="jim walton / CC BY (https://creativecommons.org/licenses/by/3.0)" href="https://commons.wikimedia.org/wiki/File:19018_Vernazza,_Province_of_La_Spezia,_Italy_-_panoramio_(36).jpg"><img width="100%" alt="19018 Vernazza, Province of La Spezia, Italy - panoramio (36)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/19018_Vernazza%2C_Province_of_La_Spezia%2C_Italy_-_panoramio_%2836%29.jpg/512px-19018_Vernazza%2C_Province_of_La_Spezia%2C_Italy_-_panoramio_%2836%29.jpg"></a>
 
-Interessant finden wir die Wanderwege entlang der Steilhänge. Einer der wohl interessantesten, der Via dell’Amore ist jedoch voraussichtlich bis April 2021 geschlossen wegen Erdrutschen. Diese sind generell ein großes Problem. Je weniger Hänge bewirtschaftet werden, umso mehr rutscht ab, da sie, wie schon erwähnt, durch Trockenmauern gestützt werden. Die Kosten für die Instandhaltung sind offenbar relativ hoch, daher scheint das Problem nicht aufzuhalten zu sein und man rechnet damit, dass noch sehr viel in den nächsten verloren gehen wird.
+Highlight sind sicherliche die Wanderwege entlang der Steilhänge. Einer der wohl interessantesten, der Via dell’Amore ist voraussichtlich bis April 2021 geschlossen wegen Erdrutschen. Diese sind generell ein Problem. Je weniger der Hänge bewirtschaftet werden, umso mehr rutscht ab. Die Kosten für die Instandhaltung der Trockenmauern sind immens. Ohne wirtschaftliches Interesse an den Produkten, scheint das Problem nicht aufzuhalten zu sein. Man rechnet damit, dass noch sehr viel in den nächsten Jahren verloren gehen wird. Mit den Terrassen gehen potentiell auch Wanderwege verloren.
 
 ![Idylle entlang der Via dell'Amore beim Dorf Becarra](gallery/cinque-terre-manarola-view-of-village-from-trail-beccara.jpg)
 https://www.bestofcinqueterre.com/photos/cinque-terre-manarola-view-of-village-from-trail-beccara.jpg
+
+Die 5 Städtchen haben schon die mondänen Reisenden des 19 Jahrhunderts angezogen. Villen und nicht zuletzt Grabstätten zeugen von den Genießer der damaligen Zeit.
+
+![Private Kapelle auf dem Friedhof Monterosso al Mare](gallery/Friedhof Monterrosso Kapelle .png)
 
 ## Was uns schmeckt
 
@@ -47,7 +51,7 @@ In der Gegend wird Weißwein angebaut, der zu mindestens 60 % aus Bosco besteht,
 
 <a title="Bild von Piqsels / Creative Commons Zero - CC0" href="https://www.piqsels.com/sv/public-domain-photo-sbchs"><img width="100%" alt="Zitronen" src="{{ '/gallery/Zitronen.jpg' | relative_url }}"></a>
 
-Eine weitere Spezialität der Region ist ein Zitronen-Likör Limoncino aus den Zitronen von Monterosso. Das ist von den Inhaltsstoffen das Gleiche wie der Limoncello, den man z.B. von der Amalfiküste her kennt, aber durch eine andere Maischung und Gärung ergibt sich ein etwas schwererer Geschmack. Den haben wir leider nicht hier, sonst hätten wir ihn auf jeden Fall probiert.
+Eine weitere Spezialität der Region ist der Zitronen-Likör Limoncino aus den Zitronen von Monterosso. Das ist von den Inhaltsstoffen das Gleiche wie der Limoncello, den man z.B. von der Amalfiküste her kennt. Durch eine andere Maischung und Gärung ergibt sich ein etwas schwererer Geschmack. Den haben wir leider nicht hier, sonst hätten wir ihn auf jeden Fall probiert.
 
 Typische Gerichte sind
 
@@ -63,9 +67,13 @@ Das klingt alles sehr interessant und inspiriert uns. Da Joachim seine ersten Gn
 
 ## Fazit und Ausblick
 
-Schon bei dem Eisenbahnfilm gestern habe ich überlegt, mag ich in echt dort Urlaub machen? Die kleinen Orte liegen malerisch bunt, hoch am Hang. Dahinter das Meer weckt Träume. Doch ist das im tatsächlichen Erleben genussvoll? Die Luft ist sicher gut. Warm, weich und mit den Gerüchen von Meer und den Pflanzen rings herum vermengt. Es gibt wenig Autos. Ruhiger wird es sein als in anderen Städtchen, wenn der Zug nicht gerade durch den Ort rumpelt. 
+Schon bei dem Eisenbahnfilm gestern habe ich überlegt, mag ich in echt dort Urlaub machen? Die kleinen Orte liegen malerisch bunt, hoch am Hang. Dahinter das Meer weckt Träume. Doch ist das im tatsächlichen Erleben genussvoll? Die Luft ist sicher gut. Warm, weich und mit den Gerüchen von Meer und den Pflanzen rings herum vermengt. Es gibt wenig Autos. Ruhiger wird es sein als in anderen italienischen Städtchen, wenn der Zug nicht gerade durch den Ort rumpelt. Geruch und Geräusche brauchen einiges an Fantasie auf unserer Reise. Da wäre es schon schön, abends mit einem Blick aufs Meer die Ruhe zu genießen.
 
-Schaut man sich die Fotos genau an, sind auf den Plätzen und Wanderwegen überall Leute unterwegs. Angeblich tummeln sich 2,5 Mio Touristen in den letzten Jahren hier, vor allem in den Sommermonaten. Kreuzfahrtschiffe legen in La Spezia an, Küstenschnellboote 
+Misstrauisch werde ich bei so manchen Schnappschüssen, die nicht auf den Seiten der Reiseführer, sondern in Google zu finden sind. Schaut man sich die Fotos genau an, sind auf den Plätzen und Wanderwegen überall viele, viele Menschen unterwegs. Angeblich tummelten sich 2,5 Mio Touristen in den letzten Jahren hier. Kreuzfahrtschiffe legen in La Spezia an, geräumige Küstenschnellboote nehmen die fotohungrigen Reisenden mit zu den sensationellen kleinen Städtchen. Cinque Terre gehört zu den hochgepriesenen Zielen des internationalen Tourismus. 
+
+Wie lässt sich eine sensationelle Gegend vor der Zerstörung durch die Bewunderer bewahren? Seit 2016 werden Besucherlimits diskutiert und in wenig wirksamen Versuchen implementiert: Auf einigen besonders attraktiven Wanderwegen zahlt man für  Passagierschein ausgehändigt. 
+
+
 
 ---
 
