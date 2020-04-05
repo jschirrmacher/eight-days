@@ -31,10 +31,6 @@ header#main {
     @media (max-width: 1000px) {
       width: 100%;
     }
-
-    &:last-child:nth-child(odd) {
-      width: 100%;
-    }  
   }
 
   .post-info {
