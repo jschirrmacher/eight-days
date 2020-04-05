@@ -4,7 +4,7 @@ title: Cinque Terre
 feature-img: gallery/Cinque Terre.jpg
 thumbnail: gallery/Cinque Terre.jpg
 author: chrigerigk
-tags: Vorbereitung
+tags: CinqueTerre Italien
 ---
 <div class="author christiane"></div>
 Erster Urlaubstag der virtuellen Reise. Er beginnt so wie viele andere Urlaubstage zuvor: morgens lange im Bett. Auf der Kippe zwischen dem Wiedereinschlafen und Aufstehen fällt mir ein, ein italienisches Frühstück findet draußen statt, mit Espresso, klappernden Tassen und plappernden Leuten. Ja, wie? 
