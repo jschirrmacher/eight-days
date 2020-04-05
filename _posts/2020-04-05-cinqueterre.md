@@ -38,6 +38,9 @@ Schon das kleinste und am wenigsten besuchte Cinque-Terre-Dorf, Corniglia mit se
 
 Interessant finden wir die Wanderwege entlang der Steilhänge. Einer der wohl interessantesten, der Via dell’Amore ist jedoch voraussichtlich bis April 2021 geschlossen wegen Erdrutschen. Diese sind generell ein großes Problem. Je weniger Hänge bewirtschaftet werden, umso mehr rutscht ab, da sie, wie schon erwähnt, durch Trockenmauern gestützt werden. Die Kosten für die Instandhaltung sind offenbar relativ hoch, daher scheint das Problem nicht aufzuhalten zu sein und man rechnet damit, dass noch sehr viel in den nächsten verloren gehen wird.
 
+![Idylle entlang der Via dell'Amore beim Dorf Becarra](gallery/cinque-terre-manarola-view-of-village-from-trail-beccara.jpg)
+https://www.bestofcinqueterre.com/photos/cinque-terre-manarola-view-of-village-from-trail-beccara.jpg
+
 ## Was uns schmeckt
 
 In der Gegend wird Weißwein angebaut, der zu mindestens 60 % aus Bosco besteht, mit Zusatz von Vermentino und Albarola. Teilweise wird er auch als „sciacchetrà“ zum Likörwein aufgesprittet. Vor allem Joachim trinkt lieber kräftigen Rotwein, daher ist das so gar nicht unser Ding. Daher haben wir uns auch entschlossen, zum Abendessen zwar einen italienischen Wein zu trinken, aber einen roten. Es ist ein 2014er “Filicheto”, ein Montepulciano, weich und trotzdem kräftig im Geschmack. Sehr lecker!
