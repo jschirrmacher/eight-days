@@ -48,11 +48,11 @@ Photo von [https://www.bestofcinqueterre.com](https://www.bestofcinqueterre.com)
 
 Die 5 Städtchen haben schon die mondänen Reisenden des 19 Jahrhunderts angezogen. Villen und nicht zuletzt Grabstätten zeugen von den Genießer der damaligen Zeit.
 
-![Private Kapelle auf dem Friedhof Monterosso al Mare](gallery/Friedhof-Monterrosso-Kapelle.png)
+![Private Kapelle auf dem Friedhof Monterosso al Mare]({{ '/gallery/Friedhof-Monterrosso-Kapelle.png' | relative_url }})
 
 Highlight des Tages: Mit Google Earth an der Küsten entlang fliegen. Ich kann sogar in die Gassen und Plätze eintauchen!
 
-![Im Flugmodus über der Küste. Google Earth Screenshot: Corniglia](gallery/Corniglia-Google-Earth.png)
+![Im Flugmodus über der Küste. Google Earth Screenshot: Corniglia]({{ '/gallery/Corniglia-Google-Earth.png' | relative_url }})
 
 ## Was uns schmeckt
 
@@ -84,20 +84,20 @@ Misstrauisch werde ich bei so manchen Schnappschüssen, die nicht auf den Seiten
 
 Wie lässt sich eine sensationelle Gegend vor der Zerstörung durch die Bewunderer bewahren? Seit 2016 werden Besucherlimits diskutiert und ansatzweise implementiert: Auf besonders attraktiven Wanderwegen zahlt man für Passagierscheine. Ob der Kreuzfahrttourismus auch eingeschränkt wurde, konnte ich nicht erkennen. Aktuell wird es selten einsam sein. 
 
-Was ich zum Thema Begrenzung des Massentourismus (Venedig, Rom, Barcelona, Amsterdam, Florenz, Dubrovnik ...) noch gefunden habe: 
-  Hotelbetten und AirBnB Restriktionen
-  Amsterdam verzichtet auf Tourismuswerbung und preist statt dessen die weniger bekannten Städte der Umgebung an
-  Zugangstickets vorab wie die National Parks der USA
-  Cinque Terre hat eine App, die anzeigt, wie stark welcher Wanderweg gerade frequentiert ist
-  Geplant ist, das man sich in der App auf Wartelisten für die begrenzten Wege einschreiben kann
-  Selfiestick Verbot, damit Touristen sich nicht gegenseitig verletzen oder selbst von Mauern und Treppen stürzen
+Was ich zum Thema Begrenzung des Massentourismus (Venedig, Rom, Barcelona, Amsterdam, Florenz, Dubrovnik ...) noch gefunden habe:
 
-In einem Beitrag schreibt Lady Lolo "How to be a better tourist?" gegen Übertourismus: "Believe it or not, Paris, Rome, Florence, Dubrovnik, enter any city here, wasn’t built for your sole entertainment." Ein Tipp von ihr, sich vor der Reise zu informieren, welche Souvenire wirklich lokal und traditionell gefertig werden. "Try to always make it a general rule of supporting small, local businesses!"
-https://www.caliglobetrotter.com/how-to-be-a-better-tourist/
+- Hotelbetten und AirBnB Restriktionen
+- Amsterdam verzichtet auf Tourismuswerbung und preist statt dessen die weniger bekannten Städte der Umgebung an
+- Zugangstickets vorab wie die National Parks der USA
+- Cinque Terre hat eine App, die anzeigt, wie stark welcher Wanderweg gerade frequentiert ist
+- Geplant ist, das man sich in der App auf Wartelisten für die begrenzten Wege einschreiben kann
+- Selfiestick Verbot, damit Touristen sich nicht gegenseitig verletzen oder selbst von Mauern und Treppen stürzen
+
+In einem Beitrag schreibt Lady Lolo "[How to be a better tourist?](https://www.caliglobetrotter.com/how-to-be-a-better-tourist/)" gegen Übertourismus: "Believe it or not, Paris, Rome, Florence, Dubrovnik, enter any city here, wasn’t built for your sole entertainment." Ein Tipp von ihr, sich vor der Reise zu informieren, welche Souvenire wirklich lokal und traditionell gefertig werden. "Try to always make it a general rule of supporting small, local businesses!"
 
 ---
 
-## Quellen und interessante Links:
+## Quellen und interessante Links
 
 - [https://www.5terre.de/pdf/leseprobe-wovon-leben-die-leute-hier.pdf](https://www.5terre.de/pdf/leseprobe-wovon-leben-die-leute-hier.pdf)
 - [https://www.cinqueterre.it/de](https://www.cinqueterre.it/de)
