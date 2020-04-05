@@ -42,8 +42,9 @@ Schon das kleinste und am wenigsten besuchte Cinque-Terre-Dorf, Corniglia mit se
 
 Highlight sind sicherliche die Wanderwege entlang der Steilhänge. Einer der wohl interessantesten, der Via dell’Amore ist voraussichtlich bis April 2021 geschlossen wegen Erdrutschen. Diese sind generell ein Problem. Je weniger der Hänge bewirtschaftet werden, umso mehr rutscht ab. Die Kosten für die Instandhaltung der Trockenmauern sind immens. Ohne wirtschaftliches Interesse an den Produkten, scheint das Problem nicht aufzuhalten zu sein. Man rechnet damit, dass noch sehr viel in den nächsten Jahren verloren gehen wird. Mit den Terrassen gehen potentiell auch Wanderwege verloren.
 
-![Idylle entlang der Via dell'Amore beim Dorf Becarra](gallery/cinque-terre-manarola-view-of-village-from-trail-beccara.jpg)
-https://www.bestofcinqueterre.com/photos/cinque-terre-manarola-view-of-village-from-trail-beccara.jpg)
+![Idylle entlang der Via dell'Amore beim Dorf Becarra]('/gallery/cinque-terre-manarola-view-of-village-from-trail-beccara.jpg' | relative_url)
+_Idylle entlang der Via dell'Amore beim Dorf Becarra<br>
+Photo von [https://www.bestofcinqueterre.com](https://www.bestofcinqueterre.com)_
 
 Die 5 Städtchen haben schon die mondänen Reisenden des 19 Jahrhunderts angezogen. Villen und nicht zuletzt Grabstätten zeugen von den Genießer der damaligen Zeit.
 
