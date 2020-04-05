@@ -102,3 +102,36 @@
     margin-top: 1em;
   }
 }
+
+section .author {
+  position: absolute;
+  margin-left: -10%;
+  font-size: 14px;
+  line-height: 32px;
+
+  @media (max-width: 1400px) {
+    margin-left: -7%;
+  }
+
+  @media (max-width: 1000px) {
+    display: block;
+    position: initial;
+    margin-left: 0;
+  }
+
+  &.christiane {
+    color: #a08000;
+
+    &:before {
+      content: 'Christiane';
+    }
+  }
+
+  &.joachim {
+    color: #0080a8;
+
+    &:before {
+      content: 'Joachim';
+    }
+  }
+}
