@@ -1,7 +1,10 @@
 ---
+layout: post
 title: "Dritter Tag: Taiwan"
 author: chrigerigk
-thumbnail: taiwan.jpeg
+thumbnail: gallery/taiwan.jpeg
+feature-img: gallery/taiwan.jpeg
+tags: Taiwan
 ---
 
 <div class="author christiane"></div>
@@ -14,7 +17,7 @@ Doch dann später am Abend kreisen meine Gedanken wiederum um die Frage, warum w
 
 Eine Reise zu den schönsten historischen Orten lässt sich online superschnell umsetzen. Die Bilder strömen einem entgegen.
 
-<a title="John Menard from Phoenix, USA / CC BY-SA (https://creativecommons.org/licenses/by-sa/2.0)" href="https://commons.wikimedia.org/wiki/File:Looking_up_Water_Street,_Castle_Combe.jpg"><img alt="Looking up Water Street, Castle Combe" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Looking_up_Water_Street%2C_Castle_Combe.jpg/512px-Looking_up_Water_Street%2C_Castle_Combe.jpg"></a>
+<a title="John Menard from Phoenix, USA / CC BY-SA (https://creativecommons.org/licenses/by-sa/2.0)" href="https://commons.wikimedia.org/wiki/File:Looking_up_Water_Street,_Castle_Combe.jpg"><img alt="Looking up Water Street, Castle Combe" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Looking_up_Water_Street%2C_Castle_Combe.jpg/1024px-Looking_up_Water_Street%2C_Castle_Combe.jpg"></a>
 
 Doch wir können die Sonne auf dem verwitternden Gestein nicht sehen, die Moose auf der Steinmauer bewundern - also was geht stattdessen? Ausschau halten nach Orten, die sich den Fragen unserer Zeit offensiver stellen als unsere tägliche Umgebung.
 

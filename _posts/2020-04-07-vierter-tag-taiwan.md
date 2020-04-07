@@ -2,6 +2,8 @@
 layout: post
 title: Besuch in Taiwan
 author: jschirrmacher
+thumbnail: gallery/Taipei-Strassenbild.png
+feature-img: gallery/Taipei-Strassenbild.png
 tags: Taiwan
 ---
 <div class="author christiane"></div>
@@ -21,10 +23,10 @@ Genauer verstehe ich jetzt auch, was ich festhalten will. Mein Blick, mein Erleb
 
 ![Straßenbild in Taipei aus Google Earth]({{ 'gallery/Taipei-Strassenbild.png' | relative_url }})
 
-Unterwegs eine neues Wort gefunden: "Netizens": The phrase — “The policies of a 38-year-old genius minister with an IQ of 180” — has been trending on Japanese search engines this week. Netizens commended Tang’s efforts in providing digital information on the coronavirus updates, including a real-time map of local face mask supplies. https://international.thenewslens.com/article/132023
+Unterwegs in einem [interesssanten Artikel über Audrey Tang](https://international.thenewslens.com/article/132023), die Taiwanesische Digitalministerin, ein neues Wort gefunden: "Netizens": The phrase — “The policies of a 38-year-old genius minister with an IQ of 180” — has been trending on Japanese search engines this week. Netizens commended Tang’s efforts in providing digital information on the coronavirus updates, including a real-time map of local face mask supplies.
 
 <div class="author joachim"></div>
-Es gibt [deutschsprachiges Radio](https://de.rti.org.tw/) in Taiwan. Nicht nur deutsch, sie veröffentlichen Infos in sehr vielen Sprachen. Alles nicht all zu umfassend, aber doch eine gute Möglichkeit, die Sicht der Taiwaner auch ein Stück besser zu verstehen.
+Es gibt [deutschsprachiges Radio](https://de.rti.org.tw/) in Taiwan. Nicht _nur_ deutsch, sie veröffentlichen Infos in sehr vielen Sprachen. Alles nicht all zu umfassend, aber doch eine gute Möglichkeit für unsereins, die Sicht der Taiwaner auch ein Stück besser zu verstehen. Und für Taiwan die Chance auf besseres Verständnis und Integration in den Rest der Welt - was gerade für Taiwan besonders relevant ist.
 
 Was ich noch gelernt habe: [Ang Lee](https://www.imdb.com/name/nm0000487/?ref_=fn_al_nm_1) stammt von dort. War mir bisher nicht bewusst, ich kannte aber einige seiner sehr unterschiedlichen Filme, z.B. [Tiger & Dragon](https://www.imdb.com/title/tt0190332/?ref_=nm_flmg_dr_11), den ich für seine gewaltigen Bilder bewundere oder auch [Brokeback Mountain](https://www.imdb.com/title/tt0388795/?ref_=nm_flmg_dr_7). Vielleicht sollten wir uns mal wieder einen weiteren Film von ihm ansehen?
 
@@ -35,7 +37,7 @@ Noch ein letzte Erkenntnis für heute: Bei uns wurde ja erst kürzlich ein Geset
 <div class="author christiane"></div>
 Ich möchte von unserem Taiwan Besuch die Beispiele für Demokratie und Digitalisierung mitnehmen. Die NYT schreibt in einer guten (knappen) Zusammenfassung dazu: "Taiwan is crowdsourcing democracy to create a more responsive government." 
 
-![Beispiel Diskussionsthema auf Pol.is](gallery/Pol_is.png)
+[![Beispiel Diskussionsthema auf Pol.is]({{ 'gallery/Pol_is.png' | relative_url }})](https://pol.is)
 
 - [g0v](http://g0v.asia/) - eine Entwicklercommunity, die open-source tools für mehr Transparenz und Diskurse schafft
 - [vTaiwan](https://vtaiwan.tw/) - eine Plattform zur online und direkten Diskussion und Meinungsentwicklung
