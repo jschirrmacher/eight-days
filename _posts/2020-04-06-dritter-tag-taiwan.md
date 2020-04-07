@@ -33,9 +33,10 @@ Taiwan ist uns komplett unbekannt. Letztes Jahr auf der re:publica sprach die Ta
 <div class="author joachim"></div>
 Über Taiwan wusste ich bisher wenig. Jetzt habe ich den [Wikipedia Artikel](https://de.wikipedia.org/wiki/Republik_China_%28Taiwan%29) gelesen und bin von da aus auf die [Xinhai-Revolution](https://de.wikipedia.org/wiki/Xinhai-Revolution) und [Chiang Kai-shek](https://de.wikipedia.org/wiki/Chiang_Kai-shek) weiter gelangt. So habe ich dann auch mehr über die chinesische Geschichte der letzten hundert Jahre verstanden. Die Republik und die Volksrepublik. Die Rolle Europas, Amerikas, Japans und Russlands dabei und diese merkwürdige Rolle, die Taiwan inzwischen in der Welt hat.
 
+<div class="author christiane"></div>
+In dem Artikel über die Xinhai-Revolution steht, dass sie ihren eher zufälligen Auslöser 1910 in den sogenannten Eisenbahnunruhen fand. Zur Eindämmung der damaligen Lungenpest-Epidemie hatte die Verwaltung den Eisenbahnverkehr eingeschränkt. Die entstehende wirtschaftliche Krise wurde verstärkt durch Überschwemmungen im Sommer und war dann der Nährboden für die revolutionäre Aufstände. Das wirft für mich neue Aspekte auf den Corona-Frühling 2020. Der drohenden Wirtschaftskrise versuchen Regierungen aktuell durch Sonderprogramme zu begegnen, riesige Summen werden quasi sofort ausgeschüttet. Ich fürchte, so oder so die Krise kommt und bleibt, wenn Corona schon Geschichte ist.
+
+<div class="author joachim"></div>
 Warum passiert das alles? Und warum sind wir Menschen heute so abhängig von dem, was vor so vielen Jahren geschehen ist? Erst, wenn man alle diese Zusammenhänge wirklich versteht, kann man sich tatsächlich ein Urteil bilden. Und wann hat man tatsächlich alles verstanden? Mal wieder erkenne ich, dass ich erst mit mehr Wissen erkenne, was ich alles nicht wirklich weiß...
 
 Jedenfalls werden wir wohl auch morgen noch an Taiwan zu lesen und zu schauen haben. Unsere Weltreise ist dann doch langsamer, als ich mir das Anfangs gedacht habe. Nicht schlimm, finde ich.
-
-<div class="author christiane"></div>
-In dem Artikel über die Xinhai-Revolution steht, dass sie ihren eher zufälligen Auslöser 1910 in den sogenannten Eisenbahnunruhen fand. Zur Eindämmung der damaligen Lungenpest-Epidemie hatte die Verwaltung den Eisenbahnverkehr eingeschränkt. Die entstehende wirtschaftliche Krise wurde verstärkt durch Überschwemmungen im Sommer und war dann der Nährboden für die revolutionäre Aufstände. Das wirft für mich neue Aspekte auf den Corona-Frühling 2020. Der drohenden Wirtschaftskrise versuchen Regierungen aktuell durch Sonderprogramme zu begegnen, riesige Summen werden quasi sofot ausgeschüttet. Ich fürchte, so oder so die Krise kommt und bleibt, wenn Corona schon Geschichte ist. 
