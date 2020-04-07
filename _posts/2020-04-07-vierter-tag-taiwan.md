@@ -29,3 +29,20 @@ Es gibt [deutschsprachiges Radio](https://de.rti.org.tw/) in Taiwan. Nicht nur d
 Was ich noch gelernt habe: [Ang Lee](https://www.imdb.com/name/nm0000487/?ref_=fn_al_nm_1) stammt von dort. War mir bisher nicht bewusst, ich kannte aber einige seiner sehr unterschiedlichen Filme, z.B. [Tiger & Dragon](https://www.imdb.com/title/tt0190332/?ref_=nm_flmg_dr_11), den ich für seine gewaltigen Bilder bewundere oder auch [Brokeback Mountain](https://www.imdb.com/title/tt0388795/?ref_=nm_flmg_dr_7). Vielleicht sollten wir uns mal wieder einen weiteren Film von ihm ansehen?
 
 Noch ein letzte Erkenntnis für heute: Bei uns wurde ja erst kürzlich ein Gesetz erlassen, dass bei jeglichen Käufen eine Quittung ausgestellt werden muss. Auf diese Weise soll besser sicher gestellt werden, dass die Umsatzsteuer auch tatsächlich verbucht und abgeführt wird. Die Taiwaner haben eine ganz andere Antwort auf diese Frage gefunden. Jede Quittung nimmt an einer staatlichen Lotterie teil, so dass alle Einwohner einen Anreiz haben, die Quittungen zu verlangen. Scheint sehr gut zu funktionieren!
+
+<H2>Digitale Demokratie>H2/>
+
+<div class="author christiane"></div>
+Ich möchte von unserem Taiwan Besuch die Beispiele für Demokratie und Digitalisierung mitnehmen. Die NYT schreibt in einer guten (knappen) Zusammenfassung dazu: "Taiwan is crowdsourcing democracy to create a more responsive government." 
+g0v - eine Entwicklercommunity, die open-source tools für mehr Transparenz und Diskurse schafft http://g0v.asia/
+vTaiwan - eine Plattform zur online und direkten Diskussion und Meinungsentwicklung https://vtaiwan.tw/
+
+
+Pol.is - Plattform zur Kommentierung und Bewertung zu digitalen Entscheidungsfragen, wie Plattformökonomie, Datenrechten, z.B. auch neuen Verkehrsmitteln, 
+![Beispiel Diskussionsthema auf Pol.is](gallery/Pol_is.png)
+
+Auf Pol.is werden einzelne Aussagen nicht kommentiert, sondern nur per Klick bewertet: agree/disagree, pass/unsure - um Trollen den Wind aus den Segeln zu nehmen.
+
+Join.gov.tw - https://join.gov.tw/ - eine staatliche Plattform zur Veröffentlichung und Kommentierung von Regulierungsvorhaben zu Handel, Investitionen, IP
+
+Alles unter der Maxime: Je mehr öffentliche Teilhabe und Diskussion umso besser die Demokratie. 
