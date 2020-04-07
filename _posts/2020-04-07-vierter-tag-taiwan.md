@@ -23,3 +23,9 @@ Genauer verstehe ich jetzt auch, was ich festhalten will. Mein Blick, mein Erleb
 
 Unterwegs eine neues Wort gefunden: "Netizens": The phrase — “The policies of a 38-year-old genius minister with an IQ of 180” — has been trending on Japanese search engines this week. Netizens commended Tang’s efforts in providing digital information on the coronavirus updates, including a real-time map of local face mask supplies. https://international.thenewslens.com/article/132023
 
+<div class="author joachim"></div>
+Es gibt [deutschsprachiges Radio](https://de.rti.org.tw/) in Taiwan. Nicht nur deutsch, sie veröffentlichen Infos in sehr vielen Sprachen. Alles nicht all zu umfassend, aber doch eine gute Möglichkeit, die Sicht der Taiwaner auch ein Stück besser zu verstehen.
+
+Was ich noch gelernt habe: [Ang Lee](https://www.imdb.com/name/nm0000487/?ref_=fn_al_nm_1) stammt von dort. War mir bisher nicht bewusst, ich kannte aber einige seiner sehr unterschiedlichen Filme, z.B. [Tiger & Dragon](https://www.imdb.com/title/tt0190332/?ref_=nm_flmg_dr_11), den ich für seine gewaltigen Bilder bewundere oder auch [Brokeback Mountain](https://www.imdb.com/title/tt0388795/?ref_=nm_flmg_dr_7). Vielleicht sollten wir uns mal wieder einen weiteren Film von ihm ansehen?
+
+Noch ein letzte Erkenntnis für heute: Bei uns wurde ja erst kürzlich ein Gesetz erlassen, dass bei jeglichen Käufen eine Quittung ausgestellt werden muss. Auf diese Weise soll besser sicher gestellt werden, dass die Umsatzsteuer auch tatsächlich verbucht und abgeführt wird. Die Taiwaner haben eine ganz andere Antwort auf diese Frage gefunden. Jede Quittung nimmt an einer staatlichen Lotterie teil, so dass alle Einwohner einen Anreiz haben, die Quittungen zu verlangen. Scheint sehr gut zu funktionieren!
