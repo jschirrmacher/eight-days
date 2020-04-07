@@ -10,3 +10,5 @@ Genauer verstehe ich jetzt auch, was ich festhalten will. Mein Blick, mein Erleb
 
 ![Straßenbild in Taipei aus Google Earth](Taipei-Strassenbild.png)
 
+Unterwegs eine neues Wort gefunden: "Netizens": The phrase — “The policies of a 38-year-old genius minister with an IQ of 180” — has been trending on Japanese search engines this week. Netizens commended Tang’s efforts in providing digital information on the coronavirus updates, including a real-time map of local face mask supplies. 
+
