@@ -33,7 +33,7 @@ Christiane ist inzwischen von ihrem Traum Südengland abgekommen und sucht nach 
 <div class="author christiane"></div>
 Taiwan ist uns komplett unbekannt. Letztes Jahr auf der re:publica sprach die Taiwanesische IT-Ministerin Audre Tang und hat mich beeindruckt mit Berichten über tatsächliche soziokratischen Entscheidungs- und Verhandlungsprozessen. Eine Transgender Ministerin in einem politisch gewiss angespannten Land. Das hat mich neugierig gemacht. Also dorthin ...
 
-![Taiwan auf der Karte](gallery/taiwan.png)
+![Taiwan auf der Karte](gallery/taiwan-google-earth.png)
 
 <div class="author joachim"></div>
 Über Taiwan wusste ich bisher wenig. Jetzt habe ich den [Wikipedia Artikel](https://de.wikipedia.org/wiki/Republik_China_%28Taiwan%29) gelesen und bin von da aus auf die [Xinhai-Revolution](https://de.wikipedia.org/wiki/Xinhai-Revolution) und [Chiang Kai-shek](https://de.wikipedia.org/wiki/Chiang_Kai-shek) weiter gelangt. So habe ich dann auch mehr über die chinesische Geschichte der letzten hundert Jahre verstanden. Die Republik und die Volksrepublik. Die Rolle Europas, Amerikas, Japans und Russlands dabei und diese merkwürdige Rolle, die Taiwan inzwischen in der Welt hat.
