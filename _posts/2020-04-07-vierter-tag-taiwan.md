@@ -44,4 +44,9 @@ Ich möchte von unserem Taiwan Besuch die Beispiele für Demokratie und Digitali
 - [Pol.is](https://pol.is) - Plattform zur Kommentierung und Bewertung zu digitalen Entscheidungsfragen, wie Plattformökonomie, Datenrechten, z.B. auch neuen Verkehrsmitteln. Auf Pol.is werden einzelne Aussagen nicht kommentiert, sondern nur per Klick bewertet: agree/disagree, pass/unsure - um Trollen den Wind aus den Segeln zu nehmen.
 - [Join.gov.tw](https://join.gov.tw/) - eine staatliche Plattform zur Veröffentlichung und Kommentierung von Regulierungsvorhaben zu Handel, Investitionen, IP
 
-Alles unter der Maxime: Je mehr öffentliche Teilhabe und Diskussion umso besser die Demokratie. 
+Alles unter der Maxime: Je mehr öffentliche Teilhabe und Diskussion umso besser die Demokratie.
+
+<div class="author joachim"></div>
+Den Tag haben wir beendet mit einem Essen, das vielleicht nicht ganz Taiwanesisch war, sondern einfach "nur" chinesisch, allerdings immerhin nicht ganz das übliche "Europäisch-Chinesische" Essen. Und sogar die Kinder haben nicht nur mitgegessen, sondern fanden es gut!
+
+![Chinesisches Essen am Taiwan-Tag]({{ 'gallery/EssenAmTaiwanTag.jpg' | relative_url }})
