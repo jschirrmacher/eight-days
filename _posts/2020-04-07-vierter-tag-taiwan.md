@@ -2,8 +2,8 @@
 layout: post
 title: Besuch in Taiwan
 author: jschirrmacher
-thumbnail: gallery/Taipei-Strassenbild.png
-feature-img: gallery/Taipei-Strassenbild.png
+thumbnail: gallery/KonfuziusTempelTaiwan.jpg
+feature-img: gallery/KonfuziusTempelTaiwan.jpg
 tags: Taiwan
 ---
 <div class="author christiane"></div>
