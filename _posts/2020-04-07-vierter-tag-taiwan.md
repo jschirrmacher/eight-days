@@ -50,3 +50,7 @@ Alles unter der Maxime: Je mehr öffentliche Teilhabe und Diskussion umso besser
 Den Tag haben wir beendet mit einem Essen, das vielleicht nicht ganz Taiwanesisch war, sondern einfach "nur" chinesisch, allerdings immerhin nicht ganz das übliche "Europäisch-Chinesische" Essen. Und sogar die Kinder haben nicht nur mitgegessen, sondern fanden es gut!
 
 ![Chinesisches Essen am Taiwan-Tag]({{ 'gallery/EssenAmTaiwanTag.jpg' | relative_url }})
+
+---
+
+_Titelbild von [AngMoKio](https://commons.wikimedia.org/wiki/User:AngMoKio) unter [CC BY-SA Lizenz](https://creativecommons.org/licenses/by-sa/3.0)_
