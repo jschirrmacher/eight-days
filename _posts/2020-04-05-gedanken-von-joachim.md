@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Joachims Eindrücke
-feature-img: gallery/VinoItaliano.jpg
-thumbnail: gallery/VinoItaliano.jpg
+feature-img: gallery/ChristianeUndJoachim.jpg
+thumbnail: gallery/ChristianeUndJoachim.jpg
 author: jschirrmacher
 tags: Reiseblog Schreiben Urlaub
 ---

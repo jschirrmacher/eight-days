@@ -2,7 +2,7 @@
 layout: post
 title: Besuch in Taiwan
 author: jschirrmacher
-thumbnail: gallery/KonfuziusTempelTaiwan.jpg
+thumbnail: /assets/img/thumbnails/KonfuziusTempelTaiwan.jpg
 feature-img: gallery/KonfuziusTempelTaiwan.jpg
 tags: Taiwan
 ---
