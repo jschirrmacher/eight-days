@@ -12,6 +12,8 @@ Start in den Tag mit der Rio de Janeiro Playlist und den Frühstückstips von Tr
 
 ![Frühstück in Rio]({{ 'gallery/fruehstueckeninrio.png' | relative_url }})
 
+Aber auch [die Musik](https://open.spotify.com/playlist/2tHHa5FokCycyvwnmY50ra?si=r8dLf8RQSruKTcznw7AFgQ) ist zum gemütlichen Frühstück ganz angenehm.
+
 <span class="author joachim"></span>
 Heute wollen wir die Empfehlung meines Kollegen Rüdiger nachkommen und uns Rio anschauen. Er hat offenbar einen sehr interessanten Urlaub dort verbracht und nicht nur die üblichen Touristenattraktionen besucht, sondern auch etwas von den dort lebenden Menschen mitbekommen.
 
