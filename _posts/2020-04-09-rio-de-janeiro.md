@@ -27,4 +27,18 @@ Jens Hausherr from Hamburg, Deutschland - Rio de Janeiro
 
 Eine Tour durch den Tijuca Forest müsste dabei sein, wer hat schon einen tropischen Regenwald  am Stadtrand. An die kleinen Äffchen in Brasilien, an der Küste nördlich von San Salvador, erinnern wir uns gern. Die Kinder waren aus dem Häuschen (damals 5 und 7), als eines der quirligen Tierchen es bis zum Frühstücksbuffet geschafft hatte. 
 
-Favelas an den Berghängen gehören zu Rio’s Stadtbild, wie die Christus-Statue und der Zuckerhut. Die Stadt ist geteilt in die Favelas, wo die Drogenbosse die Kontrolle haben, und die übrige Stadt, den asfalto (den asphaltierten Teil), in dem die Gesetze des Staates gelten. Immerhin bestehen die meisten Gebäude in Rio’s Favelas aus Backsteinen und Zement. 
+Favelas an den Berghängen gehören zu Rio’s Stadtbild, wie die Christus-Statue und der Zuckerhut. Die Stadt ist geteilt in die Favelas, wo die Drogenbosse die Kontrolle haben, und die übrige Stadt, den asfalto (den asphaltierten Teil), in dem die Gesetze des Staates gelten. Immerhin bestehen die meisten Gebäude in Rio’s Favelas aus Backsteinen und Zement. Doch die Enge, der Müll, die Abwässer, die in den Boden und talwärts sickern und nichtzuletzt die unbedinge Macht der Stärkeren, der Bewaffneten - machen diese Orte für mich zu Unorten. Favela-Touren mehr oder weniger authentisch gehören zu den schnell auffindbaren Besuchstipps: https://www.tripadvisor.de/AttractionProductReview-g303506-d11480504-Rocinha_Favela_Walking_Tour-Rio_de_Janeiro_State_of_Rio_de_Janeiro.html Neugierig auf Elend? Ich nicht vielleicht so. 
+
+Was wir beim Abendessen reden: Während der Präsident die Corona-Epidemie als Grippchen tituliert und herunterspielt, übernehmen Gangs im Auftrag der Drogenmafia in den Favelas die Kontrolle über Social Distancing. 
+
+Was uns nach Rio geführt hat: Kreativität, Projekte rund um Favelas
+Prominente Künstler, Sänger sorgen für Sichtbarkeit, Farben und Kunstprojekte ziehen Kameras und Besucher an.
+
+![streetart-santa-maria-favela]({{'gallery/colourful_revitalization_favela_santa_maria.png' relative_url}}})
+https://futureofconstruction.org/solution/creating-more-colourful-liveable-and-human-cities-the-revitalization-of-favela-santa-maria/
+
+
+Project Morrinho: https://en.m.wikipedia.org/wiki/Project_Morrinho
+Aus einer gelebten Ideen wächst eine Bewegung: Kinder bauen ihre Umgebung und ihre täglichen Begegnungen darin als eine Mini-Welt farbenfroh nach. Seit 20 Jahren wächst eine Modellwelt der Realität aus dem Baumaterial, das sich rings herum findet. Ziegelsteine, Farben, Blech, Paletten, Spielzeug bis hin zu Legofiguren
+https://www.projetomorrinho.org/englishhome
+
