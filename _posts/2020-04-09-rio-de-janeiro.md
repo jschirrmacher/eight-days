@@ -44,7 +44,8 @@ Prominente Künstler, Sänger sorgen für Sichtbarkeit, Farben und Kunstprojekte
 Ein interessanter Tipp von Joachims Kollegen Rüdiger: das [Project Morrinho](https://en.m.wikipedia.org/wiki/Project_Morrinho).
 
 Aus einer gelebten Ideen wächst eine Bewegung: Kinder bauen ihre Umgebung und ihre täglichen Begegnungen darin als eine Mini-Welt farbenfroh nach. Seit 20 Jahren wächst eine Modellwelt der Realität aus dem Baumaterial, das sich rings herum findet. Ziegelsteine, Farben, Blech, Paletten, Spielzeug bis hin zu Legofiguren.
-https://www.projetomorrinho.org/englishhome
+
+[https://www.projetomorrinho.org/englishhome](https://www.projetomorrinho.org/englishhome)
 
 ---
 Titelbild von [Pat_Scrap](https://pixabay.com/de/users/Pat_Scrap-298457/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4184566) auf [Pixabay](https://pixabay.com/de/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4184566)
