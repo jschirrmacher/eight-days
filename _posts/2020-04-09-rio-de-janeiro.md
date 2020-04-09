@@ -3,7 +3,7 @@ layout: post
 title: Abstecher nach Rio de Janeiro
 author: chrigerigk
 thumbnail: gallery/Rio-Graffito.jpg
-feature-img: gallery/Rio-Graffito.jpg
+feature-img: assets/img/thumbnails/Rio-Graffito.jpg
 tags: Rio Brasilien
 ---
 
