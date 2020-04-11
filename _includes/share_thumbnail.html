@@ -9,4 +9,4 @@
 <meta name="twitter:card"        content="summary" />
 <meta name="twitter:description" content="{{ page.excerpt | strip_html | truncate: '250' | escape }}" />
 <meta name="twitter:title"       content="{{ page.title | strip_html | truncate: '250' | escape }}" />
-<meta name="twitter:image"       content="{{ page.feature-img | default: site.header_feature_image }}" />
+<meta name="twitter:image"       content="{{ page.feature-img | default: site.header_feature_image | relative_url }}" />
